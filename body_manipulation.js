@@ -1,4 +1,3 @@
-// API endpoint requiring authentication
 const apiUrl = 'https://www.thecocktaildb.com/api/json/v1/1/random.php';
 fetch(apiUrl)
   .then(response => {
